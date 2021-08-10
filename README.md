@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oye0821
 - 👀 I’m interested in software development
-- 🌱 I’m currently lrefreshing my coding skills
+- 🌱 I’m currently refreshing my coding skills
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me via email  oye767@gmail.com
 
